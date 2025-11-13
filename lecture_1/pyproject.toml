@@ -1,0 +1,8 @@
+[project]
+name = "lecture_1"
+version = "1.0.0"
+description = "My Python environment project"
+authors = ["Vlad"]
+dependencies = [
+    "colorama"
+]
