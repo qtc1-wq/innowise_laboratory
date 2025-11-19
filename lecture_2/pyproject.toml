@@ -1,0 +1,6 @@
+[project]
+name = "lecture_2"
+version = "1.0.0"
+description = "Mini-Profile Generator"
+authors = ["Vlad"]
+dependencies = [ ]
